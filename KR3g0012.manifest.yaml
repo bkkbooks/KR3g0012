@@ -26,11 +26,11 @@ assets:
   - {seq: 3, filename: KR3g0012_003.yaml, hash: 'sha256:db789f28666411ffeb052b527c38a268e7fdbf1f2a15ef22474c9a764e9aefe6'}
   - {seq: 4, filename: KR3g0012_004.yaml, hash: 'sha256:56026de667a028d973d0505a9976515682bbe5fe3da94e6b4edb783cf30ee65b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3g0012_000.markers.yaml, hash: 'sha256:23c6887cb030fde79231341629dcc37fda467840872635b84819c54a1b33a22c'}
+  - {seq: 0, role: markers, filename: assets/KR3g0012_000.markers.yaml, hash: 'sha256:7e9ab1782e4f500705cb9abb87493976a8d5304f1235f548122cc2923d96fa9c'}
   - {seq: 1, role: markers, filename: assets/KR3g0012_001.markers.yaml, hash: 'sha256:a286c03aa08f341588d465122a8c6571ee1998617fa08bda9321295e19fbae34'}
-  - {seq: 2, role: markers, filename: assets/KR3g0012_002.markers.yaml, hash: 'sha256:5ceb64b3149544e65f1d1c5356bbe6dd0a52c2e9aa057a1957864b964901e865'}
-  - {seq: 3, role: markers, filename: assets/KR3g0012_003.markers.yaml, hash: 'sha256:8bdc911ba1206560e924ac07c12d2f2fd04ad48850cd96b347979d749e6c9268'}
-  - {seq: 4, role: markers, filename: assets/KR3g0012_004.markers.yaml, hash: 'sha256:a77fc6ccb3cd7647bd6e39e57e6581f093cd1320e6c532569aedd88a4f2355cd'}
+  - {seq: 2, role: markers, filename: assets/KR3g0012_002.markers.yaml, hash: 'sha256:3ad28e0ee2f95c1237368d73e06ec1442bd03163d7888057edaa014dcca35980'}
+  - {seq: 3, role: markers, filename: assets/KR3g0012_003.markers.yaml, hash: 'sha256:034a43d312f7c85f0ff8210a73f0c6c7d9f0ad49581db091b1d0745ea143c06b'}
+  - {seq: 4, role: markers, filename: assets/KR3g0012_004.markers.yaml, hash: 'sha256:5288b9df0d2650a5ea0d168fe617a5d447e5f1d63222b9af7195aac422fb994e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -92,7 +92,7 @@ table_of_contents:
   label: 卷五
   type: section
   level: 1
-hash: sha256:6f81248e3ffcc9ad0dba303c5bcc6fb9aa439a21b3d2afb71bc38acf7d6f7588
+hash: sha256:ca5d98546f31744ead974a6195db523931bdb62a4c3819702f6a11d4c8272673
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
